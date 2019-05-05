@@ -1,0 +1,7 @@
+apiVersion: kubedge.cloud/v1alpha1
+kind: Useless
+metadata:
+  name: useless-operator
+spec:
+  # Add fields here
+  size: 3
